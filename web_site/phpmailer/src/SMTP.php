@@ -1,0 +1,2 @@
+<?php
+// SMTP class file

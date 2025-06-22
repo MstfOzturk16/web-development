@@ -1,0 +1,2 @@
+<?php
+// Exception class file
